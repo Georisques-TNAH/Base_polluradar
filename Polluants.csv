@@ -1,0 +1,98 @@
+nom,id,fiche_inrs
+"1,1,1-trichloroéthane (TCE)",1,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_22-1/FicheTox_22.pdf
+"1,1,2,2-tetrachloroéthane",2,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_36-3/FicheTox_36.pdf
+"1,2,3,4,5,6-hexachlorocyclohexane (HCH)",3,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_81-1/FicheTox_81.pdf
+"1,2-dichloroéthane (DCE - chlorure d'éthylène)",4,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_54-1/FicheTox_54.pdf
+"1,3-butadiène",5,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_241-1/FicheTox_241.pdf
+"1,4-dioxane",6,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_28-1/FicheTox_28.pdf
+Acide cyanhydrique (HCN),7,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_4-1/FicheTox_4.pdf
+Acétaldéhyde (aldéhyde acétique  éthanal),8,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_120-1/FicheTox_120.pdf
+Aldéhyde formique (formaldéhyde),9,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_7-1/FicheTox_7.pdf
+Aluminium et composés (exprimés en tant que Al),10,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_306-1/FicheTox_306.pdf
+Ammoniac (NH3),11,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_16-1/FicheTox_16.pdf
+Anthracène,12,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_137-1/FicheTox_137.pdf
+Antimoine et composés (exprimés en tant que Sb),13,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_202-1/FicheTox_202.pdf
+Arsenic et composés (exprimés en tant que As),14,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_192-1/FicheTox_192.pdf
+Azote total,15,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_267-2/FicheTox_267.pdf
+Benzène,16,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_49-4/FicheTox_49.pdf
+Biphényles polychlorés (PCB),17,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_194-1/FicheTox_194.pdf
+Cadmium et composés (exprimés en tant que Cd),18,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_60-1/FicheTox_60.pdf
+Carbone organique total (en tant que C total ou DCO/3),19,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_264-1/FicheTox_264.pdf
+Chlore et composés inorganiques (en tant que HCl),20,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_258-1/FicheTox_258.pdf
+Chlorofluorocarbures (CFC),21,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_136-3/FicheTox_136.pdf
+Chloroforme (trichlorométhane),22,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_82-1/FicheTox_82.pdf
+Chlorométhane (chlorure de méthyle),23,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_64-1/FicheTox_64.pdf
+Chlorure de vinyle (chloroéthène),24,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_184-2/FicheTox_184.pdf
+Chlorures (en tant que Cl total),25,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_253-1/FicheTox_253.pdf
+Chrome et composés (exprimés en tant que Cr),26,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_1-1/FicheTox_1.pdf
+Chrome hexavalent et composés (exprimés en tant que Cr VI),27,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_1-1/FicheTox_1.pdf
+Cobalt et composés (exprimés en tant que Co),28,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_128-1/FicheTox_128.pdf
+Composés organiques volatils non méthaniques (COVNM),29,
+Composés organohalogénés (exprimés en tant que AOX),30,
+Cuivre et composés (exprimés en tant que Cu),31,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_294-1/FicheTox_294.pdf
+Cyanures (sous forme de CN total),32,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_111-1/FicheTox_111.pdf
+Demande biologique en oxygène (DBO5),33,
+Demande chimique en oxygène (DCO),34,
+Di(2-éthylhexyle)phtalate (DEHP),35,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_161-1/FicheTox_161.pdf
+"Dichlorométhane (DCM, chlorure de méthylène)",36,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_34-1/FicheTox_34.pdf
+Dioxines et furanes (PCDD + PCDF) (exprimés en iTeq),37,
+Dioxyde de carbone (CO2) d'origine biomasse,38,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_119-1/FicheTox_119.pdf
+Dioxyde de carbone (CO2) d'origine non biomasse,39,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_119-1/FicheTox_119.pdf
+Dioxyde de carbone (CO2) total (d'origine biomasse et non biomasse),40,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_291-1/FicheTox_291.pdf
+Diuron,41,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_200-2/FicheTox_200.pdf
+"Epichlorhydrine (1-chloro-2,3-époxypropane)",42,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_187-1/FicheTox_187.pdf
+Etain et composés (exprimés en tant que Sn),43,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_294-1/FicheTox_294.pdf
+Ethylbenzène,44,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_266-1/FicheTox_266.pdf
+Fer et composés (exprimés en tant que Fe),45,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_154-1/FicheTox_154.pdf
+Fluor et composés inorganiques (en tant que HF),46,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_203-1/FicheTox_203.pdf
+Fluoranthène,47,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_91-1/FicheTox_91.pdf
+Fluorures (en tant que F total),48,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_191-13/FicheTox_191.pdf
+Halons,49,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_165-2/FicheTox_165.pdf
+Hexachlorobenzène (HCB),50,
+Hexachlorobutadiène (HCBD),51,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_121-1/FicheTox_121.pdf
+Hexafluorure de soufre (SF6),52,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_102-1/FicheTox_102.pdf
+Hydrazine,53,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_21-1/FicheTox_21.pdf
+Hydrocarbures,54,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_324-1/FicheTox_324.pdf
+Hydrocarbures aromatiques polycycliques (HAP),55,
+Hydrochlorofluorocarbures (HCFC),56,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_234-1/FicheTox_234.pdf
+Hydroflurocarbures (HFC),57,
+Hydroxyde d'ammonium (NH4+),58,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_16-1/FicheTox_16.pdf
+Manganèse et composés (exprimés en tant que Mn),59,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_52-1/FicheTox_52.pdf
+Matières en suspension (MES),60,
+Mercure et composés (exprimés en tant que Hg),61,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_55-1/FicheTox_55.pdf
+Monoxyde de carbone (CO),62,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_47-1/FicheTox_47.pdf
+Méthane (CH4),63,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_190-5/FicheTox_190.pdf
+Méthanol (alcool méthylique),64,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_5-2/FicheTox_5.pdf
+Naphthalène,65,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_204-4/FicheTox_204.pdf
+Nickel et composés (exprimés en tant que Ni),66,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_68-12/FicheTox_68.pdf
+Nonylphénols et éthoxylates de nonylphénol (NP/NPE),67,
+Oxyde d'éthylène,68,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_70-1/FicheTox_70.pdf
+"Oxyde de propylène (1,2-époxypropane)",69,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_328-1/FicheTox_328.pdf
+Oxydes d'azote (NOx/NO2),70,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_133-2/FicheTox_133.pdf
+Oxydes de soufre (SOx/SO2),71,
+PCBi : somme des 7 PCB indicateurs (PCB 28+PCB 52+PCB 101+PCB 118+PCB 138+PCB 153+PCB 180),72,
+Particules (PM10),73,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_232-1/FicheTox_232.pdf
+Pentachlorobenzène,74,
+Pentachlorophénol (PCP),75,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_11-10/FicheTox_11.pdf
+Perfluorocarbures (PFC),76,
+Phosphore total,77,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_100-2/FicheTox_100.pdf
+Phénols (en tant que C total),78,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_15-1/FicheTox_15.pdf
+Plomb et composés (exprimés en tant que Pb),79,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_59-1/FicheTox_59.pdf
+Poussières totales,80,
+Protoxyde d'azote (N2O),81,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_267-2/FicheTox_267.pdf
+Sulfates,82,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_78-1/FicheTox_78.pdf
+Sulfonate de perfluorooctane (SPFO),83,
+Sulfure d'hydrogène (H2S),84,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_32-1/FicheTox_32.pdf
+Sulfure de carbone,85,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_32-1/FicheTox_32.pdf
+Sélénium,86,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_150-2/FicheTox_150.pdf
+Thallium et ses composés (exprimés en tant que Tl),87,
+Titane et composés (exprimés en tant que Ti),88,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_291-1/FicheTox_291.pdf
+Toluène,89,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_74-1/FicheTox_74.pdf
+Trichlorobenzènes (TCB) (tous les isomères),90,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_151-4/FicheTox_151.pdf
+Trichloréthylène,91,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_22-1/FicheTox_22.pdf
+Trifluorure d'azote (trifluoramine),92,
+"Tétrachlorométhane (TCM, tétrachlorure de carbone)",93,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_8-1/FicheTox_8.pdf
+"Tétrachloroéthylène (PER, tétrachloroéthylène)",94,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_29-1/FicheTox_29.pdf
+Vanadium et ses composés,95,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_192-1/FicheTox_192.pdf
+"Xylènes (somme ortho-xylène, méta-xylène, para-xylène)",96,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_77-1/FicheTox_77.pdf
+Zinc et composés (exprimés en tant que Zn),97,https://inrs.fr//dms/ficheTox/FicheFicheTox/FICHETOX_75-1/FicheTox_75.pdf
